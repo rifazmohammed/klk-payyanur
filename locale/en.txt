@@ -1,0 +1,30 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalitha Akademi Art Gallery, Payyanur
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_51542B58_588B_2E38_41BB_0435DE97F3C3.label = Art Gallery, Payyanur
+panorama_5156622A_588B_5E18_41B8_234B9A081F2D.label = Art Gallery, Payyanur
+panorama_5156A72F_588B_E618_41C1_379D0C954FD0.label = Art Gallery, Payyanur
+panorama_5156AEC0_588B_E608_41BD_C53EAD451BB5.label = Art Gallery, Payyanur
+panorama_5156C663_588B_2608_41CA_C4CD3BFFAACB.label = Art Gallery, Payyanur
+panorama_5156DAAB_588B_2E18_41B2_431B65F3C45F.label = Art Gallery, Payyanur
+panorama_5156F308_588B_FE18_41D0_75994B1F14FC.label = Art Gallery, Payyanur
+panorama_52A50D9C_588B_2A38_41B7_BAD37F9CDCF6.label = Art Gallery, Payyanur
